@@ -1,9 +1,5 @@
 {
-  "openFiles": [
-    "src/App.tsx",
-    "src/styles.css",
-    "tailwind.config.cjs"
-  ],
+  "openFiles": ["src/App.tsx", "src/styles.css", "tailwind.config.cjs"],
   "activeFile": "src/App.tsx",
   "template": "vite-react-ts",
   "options": {
@@ -11,6 +7,7 @@
   },
   "dependencies": {
     "react": "latest",
-    "react-dom": "latest"
+    "react-dom": "latest",
+    "framer-motion": "latest"
   }
 }
