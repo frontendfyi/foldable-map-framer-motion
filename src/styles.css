@@ -15,7 +15,7 @@
         rgba(0, 0, 0, 0.5) 0%,
         rgba(0, 0, 0, 0) 30%
       ),
-      url("/map.webp");
+      url("/img/framer-motion-map/map.webp");
     background-size: 300%;
   }
 
