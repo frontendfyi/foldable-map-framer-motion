@@ -97,7 +97,7 @@ const FoldableMap = () => {
           className="flex w-full justify-center text-xl font-semibold md:text-4xl"
         >
           <p className="rounded-2xl bg-white px-12 py-5 text-[hsl(73_69%_26%)]">
-            Pick you favorite spot ☝️
+            Pick your favorite spot ☝️
           </p>
         </motion.div>
       </motion.div>
